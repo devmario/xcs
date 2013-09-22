@@ -1,5 +1,9 @@
 ## xcs (Xcode script) 
 
+### Update
+
+xcs2 (the next generation of this tool) is available [here](https://github.com/gonzoua/xcs2) 
+
 ### Intro
 
 While building/cleaning Xcode project from command line is trivial task (hint: xcodebuild), managing the project content used to be the hard one. **xcs** is supposed to solve this problem: it provides a minimal set of tasks for adding/removing files for existing Xcode projects. 
